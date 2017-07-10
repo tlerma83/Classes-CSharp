@@ -1,0 +1,8 @@
+/Users/tamela/workspace/csharp/exercises/classes/bin/Debug/netcoreapp1.1/classes.deps.json
+/Users/tamela/workspace/csharp/exercises/classes/bin/Debug/netcoreapp1.1/classes.runtimeconfig.json
+/Users/tamela/workspace/csharp/exercises/classes/bin/Debug/netcoreapp1.1/classes.runtimeconfig.dev.json
+/Users/tamela/workspace/csharp/exercises/classes/bin/Debug/netcoreapp1.1/classes.dll
+/Users/tamela/workspace/csharp/exercises/classes/bin/Debug/netcoreapp1.1/classes.pdb
+/Users/tamela/workspace/csharp/exercises/classes/obj/Debug/netcoreapp1.1/classes.AssemblyInfo.cs
+/Users/tamela/workspace/csharp/exercises/classes/obj/Debug/netcoreapp1.1/classes.dll
+/Users/tamela/workspace/csharp/exercises/classes/obj/Debug/netcoreapp1.1/classes.pdb
